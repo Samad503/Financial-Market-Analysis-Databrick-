@@ -107,3 +107,5 @@ GitHub: [@Samad503](https://github.com/Samad503)
 ## License
 
 This project is for educational and portfolio purposes.
+
+<!-- Updated: pipeline ready for deployment -->
